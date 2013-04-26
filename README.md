@@ -9,4 +9,4 @@ Clones the default Cloudspace iOS project and modifies it to have the desired na
  - pod repo add cloudspace git@github.com:cloudspace/Cloudspace-iOS-PodSpecs
 
 **One line usage**
-ruby <( curl https://raw.github.com/cloudspace/iOS-Project-Creator/master/create.rb ) ProjectName FilePrefix
+ - ruby <( curl https://raw.github.com/cloudspace/iOS-Project-Creator/master/create.rb ) ProjectName FilePrefix
