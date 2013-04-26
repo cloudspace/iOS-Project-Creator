@@ -6,4 +6,4 @@ Clones the default Cloudspace iOS project and modifies it to have the desired na
 
 **One line usage**
 
-ruby <( curl https://raw.github.com/jlorich/iOS-Project-Creator/master/create.rb ) ProjectName FilePrefix
+ruby <( curl https://raw.github.com/cloudspace/iOS-Project-Creator/master/create.rb ) ProjectName FilePrefix
