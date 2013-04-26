@@ -4,7 +4,7 @@ iOS-Project-Creator
 Clones the default Cloudspace iOS project and modifies it to have the desired naming scheme.
 
 
-** Prerequisites **
+**Prerequisites**
  - gem install cocoapods
  - pod repo add cloudspace git@github.com:cloudspace/Cloudspace-iOS-PodSpecs
 
